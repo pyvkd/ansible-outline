@@ -1,0 +1,6 @@
+# Host Defination
+localhost_example ansible_ssh_user=root ansible_ssh_host=192.168.0.13 private=127.0.0.1 
+
+# Grouping hosts
+[localhost_group]
+localhost_example

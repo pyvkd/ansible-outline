@@ -1,0 +1,4 @@
+# Group Vars
+[localhost_group:vars]
+var1=True
+var2="Hello World"
